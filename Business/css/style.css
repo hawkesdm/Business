@@ -1,0 +1,125 @@
+body {
+  padding-top: 90px;
+}
+
+section{
+	padding:30px;
+}
+
+.section-gray{
+	background:#f4f4f4;
+}
+
+.section-primary{
+	background:#f4f4f4;
+	color:black;
+	padding:60px;
+}
+
+.section-secondary{
+	background:#0383c0;
+	color:#fff;
+	padding:60px;
+}
+
+.section-title{
+	padding:10px;
+	background:#0383c0;
+	color:#fff;
+}
+
+small{
+	color:black !important;
+}
+
+.slogan{
+	text-align:center;
+}
+
+.slogan h1{
+	font-size:50px;
+	margin-bottom:25px;
+}
+
+.slogan p{
+	font-size:20px;
+}
+
+.slogan a{
+	margin-top:20px;
+}
+.navbar{
+	min-height:90px;
+	margin-bottom:0;
+}
+
+.nav{
+	margin-top:18px;
+}
+
+.navbar-brand{
+	height:auto;
+	padding-top:15px;
+	margin:0;
+}
+
+.navbar-nav{
+	margin:0;
+	padding:0;
+}
+
+.navbar-nav li{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.navbar-nav > li > a{
+	padding:20px;
+	font-size:18px;
+	font-weight:bold;
+	border-right:1px solid grey;	
+	text-transform: uppercase;
+}
+
+.navbar-nav > li > a span{
+	margin:5px 0 0 0;
+	padding:0;
+	font-size:14px;
+	display:block;
+	font-weight:normal;
+	font-family:arial;
+	text-transform:none;
+}
+
+.navbar-nav a:hover,.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background:#0383c0 !important;
+	color:#fff !important;
+}
+
+h1,h2,h3{
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+}
+
+.jumbotron{
+	margin:0 !important;
+	min-height:450px;
+	background:url(../img/bg.jpg) no-repeat;
+}
+
+.fa-color{
+	color:#0383c0;
+}
+
+.feature-list{
+	list-style: none;
+	font-size:18px;
+	line-height:2em;
+}
+
+footer{
+	text-align:center;
+	height:60px;
+	background:#f4f4f4;
+	padding-top:20px;
+}
